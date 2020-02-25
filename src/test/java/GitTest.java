@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("分支修改");
         //添加了注释
         System.out.println("我再次进行了修改");
+        System.out.println("再次开始");
     }
 }
