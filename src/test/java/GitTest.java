@@ -5,5 +5,6 @@ public class GitTest {
     public void test1(){
         System.out.println("开始了");
         System.out.println("结束了");
+        System.out.println("开始");
     }
 }
